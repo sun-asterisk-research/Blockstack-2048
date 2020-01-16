@@ -1,0 +1,13 @@
+{
+  "name": "Blockstack 2048",
+  "description": "2048 style game - built by reactjs - with blockstack authentication",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone"
+}
